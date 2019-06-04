@@ -3,4 +3,6 @@ body {
   padding: 0.4rem;
   font-family: sans-serif;
   max-width: 800px;
+  display: flex;
+  border: 1px solid black;
 }

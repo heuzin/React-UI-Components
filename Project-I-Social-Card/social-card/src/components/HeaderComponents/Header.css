@@ -1,1 +1,29 @@
 /* All styles for your header Components live here */
+
+.header {
+    display: flex;
+    padding-bottom: 20px;
+    border: 1px solid;
+}
+
+.lambdaHeader {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 100px;
+}
+
+.headerContent {
+    padding-left: 40px;
+}
+
+.lambdaHeader h1 {
+    font-size: 15px;
+    padding-right: 10px;
+}
+
+.lambdaHeader p {
+    font-size: 15px;
+}

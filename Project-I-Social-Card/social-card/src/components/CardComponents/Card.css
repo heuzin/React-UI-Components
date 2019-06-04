@@ -1,1 +1,18 @@
 /* All styles for your Card Components live here */
+
+.bodyContent {
+    width: 83%;
+    float: right;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+}
+
+.bannerImage {
+    width: 100%;
+}
+
+.bodyContainer{
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}

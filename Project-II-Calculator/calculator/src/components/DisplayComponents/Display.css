@@ -1,0 +1,12 @@
+.displayScreen {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 50px;
+    text-align: end;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    border: 1px solid black;
+    padding-right: 10px;
+}
